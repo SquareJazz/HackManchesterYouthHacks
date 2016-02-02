@@ -16,6 +16,9 @@ Home recycling is a massive problem in today’s society. We’re pushed to recy
 
 ## Tips
 
+Coming soon!
 
 ## The prizes
+
+TBC
 
