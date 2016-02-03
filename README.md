@@ -8,7 +8,7 @@ Manchester Social Entrepreneurs Challenge - Hack Manchester Junior Half Term You
 
 ## Background
 
-[Manchester Social Entrepreneurs](http://www.meetup.com/Manchester-Social-Entrepreneurs/) Manchester Social Entrepreneurs was started a year and a half ago. A social entrepreneur is someone who starts a business with the core aim, and focus, of helping to change the world and help society. We exist to help grow the Manchester Social Entrepreneur community, offer support to people to who are trying to help change the world and bring in key social enterprise speakers to inspire future entrepreneurs.
+[Manchester Social Entrepreneurs](http://www.meetup.com/Manchester-Social-Entrepreneurs/) was started a year and a half ago. A social entrepreneur is someone who starts a business with the core aim, and focus, of helping to change the world and help society. We exist to help grow the Manchester Social Entrepreneur community, offer support to people to who are trying to help change the world and bring in key social enterprise speakers to inspire future entrepreneurs.
 
 ## The Challenge
 
