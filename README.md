@@ -23,5 +23,5 @@ Also, a handy tip is figure out what problem in your community that bothers you 
 
 ## The prizes
 
-TBC
+A Boldport Buggy for each memeber of the winning team.
 
